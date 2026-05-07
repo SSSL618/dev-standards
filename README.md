@@ -5,7 +5,11 @@
 ## 文档列表
 
 ### 架构
-- [Web 应用标准架构](architecture/web-app-stack.md) — Vercel + Cloudflare + Firebase 架构模板
+- [Web App 默认部署架构基线](architecture/web-app-architecture-baseline.md) — 默认架构、固定原则、偏离条件
+
+### 部署
+- [Vercel + Cloudflare + Firebase 部署手册](deployment/vercel-cloudflare-firebase-runbook.md) — 完整部署流程 + 踩坑记录
+- [Web App 部署验收 SOP](deployment/deployment-acceptance-sop.md) — 4 级验收 + 排障分层 + 回滚规则
 
 ### 迁移指南
 - [Vertex AI 迁移指南](migrations/vertex-ai-migration.md) — 从 AI Studio 迁移到 Vertex Express Mode
