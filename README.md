@@ -11,6 +11,11 @@
 - [Vercel + Cloudflare + Firebase 部署手册](deployment/vercel-cloudflare-firebase-runbook.md) — 完整部署流程 + 踩坑记录
 - [Web App 部署验收 SOP](deployment/deployment-acceptance-sop.md) — 4 级验收 + 排障分层 + 回滚规则
 
+### Review 标准
+- [Review Standards Index](review/README.md) — GitHub 项目提交、提测、验收、增量复核的统一入口
+- [GitHub 项目验收与交付 Review 标准](review/acceptance-standard.md) — 结论口径、问题分级、硬门槛、证据要求
+- [GitHub 项目提交规范](review/submission-standard.md) — branch、commit、PR、验证证据、closing rule
+
 ### 迁移指南
 - [Vertex AI 迁移指南](migrations/vertex-ai-migration.md) — 从 AI Studio 迁移到 Vertex Express Mode
 
